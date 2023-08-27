@@ -11,10 +11,11 @@ Towards the end of the semester, a day is set aside for groups to demonstrate th
 Relevant QAA Computing Curriculum Sections: Computer Based Systems, Systems Analysis and Design
 
 
+
 ## Installation
 
 Clone this repository and compile the code as per the instructions.
 
 ```bash
-git clone https://github.com/s1923864/Computer-Security.git
-cd Computer-Security
+git clone https://github.com/s1923864/System-Design-Project.git
+cd System-Design-Project
