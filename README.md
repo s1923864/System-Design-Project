@@ -9,3 +9,12 @@ Workshops and dedicated office hours from domain experts will be available to ad
 Towards the end of the semester, a day is set aside for groups to demonstrate their implemented system and to give a formal presentation of it to an audience of the students, mentors, and visitors from industry.
 
 Relevant QAA Computing Curriculum Sections: Computer Based Systems, Systems Analysis and Design
+
+
+## Installation
+
+Clone this repository and compile the code as per the instructions.
+
+```bash
+git clone https://github.com/s1923864/Computer-Security.git
+cd Computer-Security
